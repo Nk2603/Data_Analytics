@@ -1,0 +1,22 @@
+## Summary of Loan Data Cleaning and Organizing
+
+### Data Cleaning Procedures:
+
+1. Upload the dataset.
+2. Check the information of the data to verify that feature data types match their values.
+3. Remove duplicate records.
+4. Handle missing values.
+5. Describe the data and check the range of features. If any values are out of range or unrealistic, remove them from the dataset (for example, age greater than 100).
+6. Validate that employment experience is not greater than the person's age. If it is, the data is invalid and should be removed.
+7. Remove feature values that are less than zero, as they are not meaningful.
+
+---
+
+### Data Visualization:
+
+1. Analyze the graphical relationship between numerical features and loan status.
+      
+2. Analyze the graphical relationship between categorical features and loan status.
+3. Analyze the graphical relationship between numerical features.
+
+
